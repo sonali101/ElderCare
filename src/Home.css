@@ -1,0 +1,25 @@
+.heading{
+    text-align: center;
+    margin-top: 40px;
+    color:rgb(10, 82, 82);
+}
+.topSpace{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.center{
+    width: 100px;
+    height: 100px;
+    margin-left:110px;
+}
+.text{
+    text-align: center;
+    color: black;
+}
+.topmargin{
+    margin-top: -24px;
+}
+:hover.text{
+    color: royalblue;
+}
